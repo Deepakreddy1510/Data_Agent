@@ -230,7 +230,7 @@ The main technologies used in this project are:
 ## Project Structure
 
 ```text
-AI_Data_Agent/
+Data_Agent/
 |
 ├── agents/
 │   ├── data_agent.py
@@ -397,8 +397,8 @@ Using a virtual environment is recommended.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Deepakreddy1510/AI_Data_Agent.git
-cd AI_Data_Agent
+git clone https://github.com/Deepakreddy1510/Data_Agent.git
+cd Data_Agent
 ```
 
 ### 2. Create a virtual environment
