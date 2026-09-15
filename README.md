@@ -1,12 +1,12 @@
-# AI Data Agent
+# Data Agent
 
-An AI-powered multi-agent system for working with structured data using natural language.
+An multi-agent system for working with structured data using natural language.
 
 The project uses **LangGraph, LangChain, Groq, GPT-OSS, PostgreSQL, and Pandas** to route user requests to specialized agents for SQL analysis or ETL operations.
 
 ## Overview
 
-AI Data Agent allows users to interact with databases and data-processing workflows using natural-language instructions.
+Data Agent allows users to interact with databases and data-processing workflows using natural-language instructions.
 
 For example, a user can ask:
 
